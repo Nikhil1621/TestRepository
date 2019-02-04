@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
@@ -18,3 +19,7 @@ If you want to work through the course without downloading npm or any of the lib
 NOTE: If you chose to use Stackblitz, note that it currently does not support reading json files from a folder defined in the angular.json file. Rather, you need to copy the products folder from the api folder to the assets folder. Then modify the productUrl to look in the assets folder: private productUrl = 'assets/products/products.json';
 
 Note also that Stackblitz does not seem to recognize the Font Awesome icons. So you will instead see portions of squares.
+=======
+# TestRepository
+This is testing for git
+>>>>>>> a1e7fbd0b8f5d963f7647c7ea269fad1a959b81f
